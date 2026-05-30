@@ -8,7 +8,7 @@
 ---
 
 ## About the Project
-This project is a CLI-based Library Management System built in C++. It simulates a real-world library environment by managing distinct administrative and member access privileges, backed by flat-file data persistence.
+This project is a CLI based Library Management System built in C++. It simulates a real-world library environment by managing distinct administrative and member access privileges, backed by flat-file data persistence.
 
 ### Key Technical Implementations:
 * **File Handling (`fstream`):** Implements localized data persistence for user credentials, book transaction records, donation details, and pending returns.
